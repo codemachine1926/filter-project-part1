@@ -1,0 +1,11 @@
+body {
+    background-image: url('background.jpg');
+}
+#head1 {
+    font-size: 35px;
+}
+
+canvas {
+    border-color:darkblue;
+    border-width: 3px;
+}
